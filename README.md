@@ -6,10 +6,10 @@ Trabalho para aplicar os conceitos do SOLID (exceto o "D") no projeto Exemplo2, 
 
 ## 📋 Artefatos
 
-- 📋 SSOLID -> Single Responsibility Principle
-- 📋 OSOLID -> Open/Closed Principle
-- 📋 LSOLID -> Liskov Substitution Principle
-- 📋 ISOLID -> Interface Segregation Principle
+- 📋 [SSOLID](src/SSolid/Exemplo2) -> Single Responsibility Principle
+- 📋 [OSOLID](src/OSolid/Exemplo2) -> Open/Closed Principle
+- 📋 [LSOLID](src/LSOLID/Exemplo2) -> Liskov Substitution Principle
+- 📋 [ISOLID](src/ISOLID/Exemplo2) -> Interface Segregation Principle
 - 📋 DSOLID -> Dependency Inversion Principle (Não entra na atividade)
 
 
